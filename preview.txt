@@ -1,0 +1,26 @@
+-----------------------------------------
+| Sansthan Name                         |
+|                                       |
+|           *COLLEGE NAME*              |
+|                                       |
+|                Student                |
+|             ---------                 |
+|             | ADD |                   |
+|             |Photo|                   |
+|             ---------                 |
+|              Student Name             |
+|                                       |
+| Father Name : ABCXXXXXXYZ             |
+| Student ID  : ABCCSXXXXX              |
+| Course      : Bachelor Of Technology  |
+| Branch      : Computer Science        |
+| Batch       : 20XX-20XX               |
+| Phone Number: 00XXXXXXXX              |
+| Address     : City, State,            |
+|               PIN                     |
+|                                       |
+| Signature                             |
+| College Address,                      |
+| City-PIN                              |
+|             College Phone Number      |
+-----------------------------------------
