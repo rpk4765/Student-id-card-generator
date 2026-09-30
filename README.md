@@ -70,7 +70,7 @@ The public repository should not contain real student IDs, phone numbers, addres
 
 ## 👨‍💻 Author
 
-**Rohit Prajapat**
+**Blue_rpk**
 
 GitHub: https://github.com/repk4765
 
